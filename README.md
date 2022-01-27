@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willcamac o just WILL
 - 👀 I’m interested in learn to coding
-- 🌱 I’m currently learning js and python
+- 🌱 I’m currently learning js and swift
 - 💞️ I’m looking to collaborate on amateurs projects
 - 📫 How to reach me: mail me to camac.wilfredo@gmail.com
 
